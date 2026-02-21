@@ -1,16 +1,26 @@
-## Hi there 👋
+# Corey Walling
 
-<!--
-**cwalling0519/cwalling0519** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cloud security-focused IT professional transitioning into Azure cloud engineering.
 
-Here are some ideas to get you started:
+With a background in infrastructure operations and critical systems environments, I approach cloud architecture with a security-first mindset focused on segmentation, least privilege, and resilience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently preparing for AZ-104 certification and building hands-on Azure security labs demonstrating real-world cloud administration and security design.
+
+---
+
+## Areas of Focus
+
+- Azure Infrastructure Security
+- Microsoft Entra ID & RBAC
+- Network Segmentation & Zero Trust Architecture
+- Azure Policy & Governance
+- Cloud Monitoring & Detection Engineering
+
+---
+
+## 2026 Goals
+
+- Graduate with Bachelor's degree
+- Earn AZ-104 certification
+- Build production-style Azure security labs
+- Transition into a Cloud Security Engineering role
