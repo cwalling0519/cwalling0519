@@ -23,4 +23,5 @@ Currently preparing for AZ-104 certification and building hands-on Azure securit
 - Graduate with Bachelor's degree
 - Earn AZ-104 certification
 - Build production-style Azure security labs
+- Earn AZ-500 certification
 - Transition into a Cloud Security Engineering role
