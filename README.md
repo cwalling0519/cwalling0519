@@ -21,3 +21,8 @@ If you're a small business or hiring manager, feel free to:
 
 - Browse the projects in my repos
 - Reach out if you want help with Microsoft 365 or basic security hardening
+
+## Featured projects
+
+- [Cybersecurity Portfolio](https://github.com/cwalling0519/cybersecurity-portfolio)
+  - [Tiny Microsoft 365 Security Assessment (Mock Client)](https://github.com/cwalling0519/cybersecurity-portfolio/tree/main/tiny-m365-security-assessment)
