@@ -1,22 +1,23 @@
-# Corey Walling
+# Hi, I'm Corey Walling 👋
 
-Infrastructure professional transitioning into Azure cloud security engineering.
+I'm a cybersecurity student at Western Governors University focusing on cybersecurity and information assurance.
 
-With a background in mission-critical infrastructure and operational technology environments, I approach cloud architecture with a security-first mindset focused on network segmentation, least privilege, identity governance, and resilience.
+- 🔐 Certifications: CompTIA A+, Network+, Security+, ITIL 4 Foundations
+- ☁️ Interests: Cloud security (AWS & Microsoft 365), network hardening, blue team labs
+- 🧪 Current focus: Building a Tiny Microsoft 365 Security Assessment for small businesses
+- 🧱 Lab tools: pfSense, Windows Server, Linux, VirtualBox, SIEM/log analysis tools
 
-Currently preparing for the AZ-104 certification while building structured, hands-on Azure labs that demonstrate secure cloud administration and governance practices.
+## What I'm building here
 
-## Areas of Focus
+This GitHub will host:
 
-- Azure Infrastructure & Virtual Networks
-- Microsoft Entra ID & Role-Based Access Control (RBAC)
-- Network Segmentation & Zero Trust Principles
-- Azure Policy & Cloud Governance
-- Monitoring & Logging with Azure Monitor
+- Hands-on cybersecurity lab projects
+- A productized Microsoft 365 security assessment for tiny tenants (1–20 users)
+- Documentation-style writeups you can read like mini case studies
 
-## 2026 Goals
+## How to use my work
 
-- Graduate with Bachelor's degree
-- Earn AZ-104 certification
-- Build production-style Azure security lab environments
-- Continue progressing toward advanced Azure security specialization
+If you're a small business or hiring manager, feel free to:
+
+- Browse the projects in my repos
+- Reach out if you want help with Microsoft 365 or basic security hardening
